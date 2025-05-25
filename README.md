@@ -13,7 +13,8 @@ This space is dedicated to:
 ## 🔍 Projects Included
 
 - `language-converter`: Real time language translation
-- `audio-transcriptor`: Transcripts audio file and creates summary 
+- `audio-transcriptor`: Transcripts audio file and creates summary
+- - `RAG-with-gmail`: Retrieval augumented generation with gmail data
 
 
 ## 🛠️ Tech Stack
