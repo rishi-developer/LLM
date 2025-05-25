@@ -57,7 +57,7 @@ ChatOllama
 
 Gradio
 
-t-SNE, NumPy, Pandas, Matplotlib
+t-SNE
 
 
 📌 Notes
